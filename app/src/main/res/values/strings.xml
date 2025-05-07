@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flight Reservation</string>
+    <string-array name="passenger_class">
+        <item>1st Class</item>
+        <item>Economy Class</item>
+        <item>Business Class</item>
+    </string-array>
+</resources>
