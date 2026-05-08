@@ -7,7 +7,7 @@ This Android app simulates a basic flight reservation system. Developed as a des
 ## 👨‍💻 Roles and Contributions
 
 - **Main Programmer:** John Venice Almazan
-- **UI Designer:** [Classmate Name, optional]
+- **UI Designer:** Carl Delos Reyes
 
 ## 🛠️ Built With
 
