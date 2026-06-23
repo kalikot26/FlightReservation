@@ -1,6 +1,6 @@
 # ✈️ Flight Reservation System
 
-🏆 **1st Place Winner — STI CodeFest 2024**
+🏆 **1st Runner-up — STI CodeFest 2024**
 
 This Android app simulates a basic flight reservation system. Developed as a desktop-to-mobile scalable project using Java and SQLite, this project allows users to input flight details and manage passenger reservations locally.
 
